@@ -1,0 +1,22 @@
+body {
+    display: inline-block;
+}
+
+h1, h2 {
+    text-align: center;
+    position: relative;
+    left: 350px;
+}
+
+th, tr, td {
+    border: 1px solid black;
+}
+
+table {
+    position: relative;
+    left: 350px;
+}
+
+th {
+    background-color: blueviolet;
+}
